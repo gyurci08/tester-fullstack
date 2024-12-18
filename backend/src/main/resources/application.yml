@@ -6,8 +6,8 @@ spring:
     name: tester-fullstack
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/pizzeria
-    username: pizzeria
+    url: jdbc:postgresql://localhost:5432/tester-fullstack
+    username: tester-fullstack
     password: 12345678
     driver-class-name: org.postgresql.Driver
 
