@@ -13,7 +13,7 @@ import java.util.List;
 @Slf4j
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("/api/pet")
+@RequestMapping("/api/pets")
 public class PetController {
     private final PetService petService;
 
